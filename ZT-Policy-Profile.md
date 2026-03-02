@@ -33,7 +33,7 @@ In this scenario, the Policy Engine verifies the user's identity before granting
 
 ## 4. Git Repository Metadata
 
-Project: Lab 6 - Zero Trust Policy  
+Project: Lab 3 - Zero Trust Policy  
 Filename: ZT-Policy-Profile.md  
 Commit Message: Added Zero Trust Policy Profile  
 GitHub URL: https://github.com/Rahmah-IT/zero-trust-policy  
